@@ -1,0 +1,184 @@
+*/ {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+}
+.container {
+   background-color: #fff2f3;
+   padding:50px;
+   
+}
+    
+.hero {
+    display:flex;
+    /* grid-template-columns: 50% 50%; */
+    padding-right:10px;
+    padding-left:10px;
+   
+}
+nav {
+    display: flex;  
+    align-items: baseline;
+}
+.images {
+    padding-left:50px;
+}
+.items {
+    display:inline;
+    word-spacing: 8px;
+    font-size: 18px;
+   margin: 20px 150px 10px 10px;
+}
+.brand {
+   font-size:20px;
+   margin-inline-end: 30px;;
+   margin: 10px 80px 10px 150px;
+   
+}
+.intro {
+    color: #96bb7c ;
+    font-size: 10px;
+    margin-top: 200px;
+} 
+.motto {
+    font-size:30px;
+    
+}
+.log {
+    color:#96bb7c;
+    margin-right: 20px;
+    margin-left: 200px;
+    font-weight: 900;
+   
+}
+
+.text {
+    font-size: 25px;
+    color:grey;
+}  
+.learn button:nth-child(2){
+    background-color: #fff2f3;
+    text-align: center;
+    padding: 10px 35px;
+    border-radius: 4px;
+    color: #96bb7c;
+    border: 0.5px solid grey;
+    margin-top:40px;
+    
+    
+    
+} 
+.button{
+    background-color: #96bb7c;
+    height: 50%;
+    width: 100px;
+    text-align: center;
+    padding: 10px 5px;
+    border-radius: 4px;
+    color: whitesmoke;
+    margin-top: 15px;
+}
+button{
+    background-color: #96bb7c;
+    text-align: center;
+    padding: 10px 35px;
+    border-radius: 4px;
+    color: whitesmoke;
+    border: none;
+    margin-top:40px;
+    font-weight: 900px;
+}
+.length {
+    margin-top: 150px;
+    width:50px;
+    height:5px;
+}
+.length1 {
+    width: 50px;
+    height:2px
+}
+
+.side {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    background-color:whitesmoke;
+    padding: 50px;
+    padding-bottom:50px;
+}
+.heading {
+    font-size: 60px;
+}
+.line1 {
+    font-size: 15px;
+    margin-bottom:30px;
+}
+.p1 {
+    color:#96bb7c;
+    font-size: 15px;
+}
+.class {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    margin-bottom: 300px;
+
+   
+}
+.learn1 {
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 1px 10px  wheat;
+    background-color: white;
+    width:20%;
+    padding:40px;
+    box-sizing: content-box;
+    
+    
+   
+
+   
+}  
+cert {
+   font-size: 16px;
+   font-weight:bold;
+
+
+}
+.info {
+    font-size: 15px; 
+   
+}
+.grade1 {
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0.5px 10px wheat;
+    width:20%;
+    padding:40px;
+    
+    
+} 
+.container3 {
+    display: flex;
+    border:1px solid white;
+    /* border:none; */
+    padding: 50px;
+    padding-bottom:50px;
+}
+.girl {
+   
+}
+
+.goals {
+   border: 1px solid blue; 
+   border:none;
+  margin-top: 200px;
+  margin-left:30px;
+  padding:30px;
+}
+
